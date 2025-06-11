@@ -6,9 +6,9 @@ These resources are part of a workshop delivered at Sharkfest 25 US, the Wiresha
 
 To complete the exercises in this repo, both Wireshark and Stratoshark are required.
 
-You can download Wireshark from [wireshark.org](wireshark.org)
+You can download Wireshark from [wireshark.org](wireshark.org).
 
-And you can download Stratoshark from [stratoshark.org](stratoshark.org)
+And you can download Stratoshark from [stratoshark.org](stratoshark.org).
 
 Ahead of the official version 1 release of Stratoshark, it may be most useful to download the latest development build, which can be found [here](https://www.wireshark.org/download/automated/). Just navigate to your OS and grab the latest-created date.
 
